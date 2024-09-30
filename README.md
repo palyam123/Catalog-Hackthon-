@@ -43,3 +43,6 @@ In Test Case 2, we identify wrong points by comparing the calculated curve with 
 1. Install the necessary packages by running:
    ```bash
    npm install big-integer
+2. Run this command in Terminal or Bash
+   node shamir_secret_sharing.js
+
